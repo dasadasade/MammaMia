@@ -2,11 +2,11 @@
     "Siti": {
         "StreamingCommunity": {
             "url": "https://streamingcommunityz.pictures/",
-            "SC_ForwardProxy": "1",
-            "SC_PROXY": "1",
-            "VX_ForwardProxy": "1",
-            "VX_PROXY": "1",
-            "enabled": "1"
+            "SC_ForwardProxy": "0",
+            "SC_PROXY": "0",
+            "VX_ForwardProxy": "0",
+            "VX_PROXY": "0",
+            "enabled": "0"
         },
         "CB01": {
             "url": "https://cb01uno.click",
@@ -29,7 +29,7 @@
             "GH_PROXY": "0"
         },
         "Eurostreaming": {
-            "url": "https://eurostream.ing",
+            "url": "https://eurostreamings.live",
             "enabled": "1",
             "ES_ForwardProxy": "0",
             "ES_PROXY": "0"
